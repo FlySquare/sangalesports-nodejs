@@ -1,0 +1,16 @@
+{
+  "name": "sangalesports",
+  "version": "1.0.0",
+  "description": "This module created by Umut Can Arda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umut Can Arda",
+  "license": "ISC",
+  "dependencies": {
+    "hltv": "^2.21.1",
+    "hltv-api": "^2.0.1",
+    "mysql": "^2.18.1"
+  }
+}
